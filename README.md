@@ -9,3 +9,13 @@ Algorithms Used:
 
   Linear Regression, Ridge Regression, Lasso Regression, Random Forest Regression
   
+
+Dependencies:
+
+  Python - 3.7,
+  Scikit-Learn,
+  Pandas,
+  Numpy,
+  Matplotlib,
+  Seaborn
+  
