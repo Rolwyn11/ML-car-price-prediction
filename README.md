@@ -7,7 +7,7 @@ If you want to try this out, check out https://ml-carprice-prediction.herokuapp.
 
 Algorithms Used:
 
-  Linear Regression, Ridge Regression, Lasso Regression, Random Forest Regression
+  Linear Regression, Ridge Regression, Lasso Regression, Random Forest Regression and K Nearesr Neighbors(KNN).
   
 
 Dependencies:
