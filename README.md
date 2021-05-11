@@ -19,3 +19,11 @@ Dependencies:
   Matplotlib,
   Seaborn
   
+  
+  Web App integration done with flask.
+  
+  To try it out on your local machine, you can download the files and run the following commands:
+  
+  1) pip install requirements.txt
+  2) python app.py
+ 
